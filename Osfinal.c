@@ -99,7 +99,7 @@ int main(){
 	for(i=0;i<num;i++){
 		
 		proc[i].name=i+1;
-		printf("Process p%d\n",proc[i].name);
+		printf("Proces p%d\n",proc[i].name);
 		
 		printf("Burst time:");
 		scanf("%f",&burst);
